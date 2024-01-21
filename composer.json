@@ -1,5 +1,5 @@
 {
-    "name": "ivanomatteo/laravel-device-tracking",
+    "name": "ibf/laravel-device-tracking",
     "description": "a library that allow to track different devices used",
     "keywords": [
         "ivanomatteo",
